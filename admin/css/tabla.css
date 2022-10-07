@@ -1,0 +1,166 @@
+.tablas{
+    border: solid 1px black;
+    width: 80%;
+    min-width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+}
+
+thead{
+    background: #066e84;
+    margin-top: 5px;
+    color: beige;
+}
+
+.dataTables_length{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#example_filter{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-right: 10px;
+}
+
+.tablas a{
+    
+    padding: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    text-decoration: none;
+    color: beige;
+}
+
+.eli{
+    border: solid 1px #E31B1B;
+    background: #e84848;
+}
+
+.edi{
+    border: solid 1px #46C32A;
+    background: #6acf54;
+}
+
+.mas{
+    border: solid 1px #2315b5;
+    background: #4131e5;
+}
+
+.cro{
+    border: solid 1px #003366;
+    background: #325b84;
+}
+
+.deu{
+    border: solid 1px #602423;
+    background: #c65a59;
+}
+
+.ree{
+    border: solid 1px #b26d06;
+    background: #ff9c09;
+}
+
+.tablas a:hover{
+    opacity: 0.5;
+}
+
+
+/************/
+
+
+.modificar {
+    width: 400px;
+    border: solid 1px black;
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.modificar input,select{
+    width: 100%;
+    height: 25px;
+    border-radius: 10px;
+    border-style: groove;
+    font-size: 17px;
+    margin-bottom: -10px;
+}
+
+.modificar h4{
+    width: 100%;
+    margin-bottom: 2px;
+}
+
+button {
+  background: #428bca;
+  border: #357ebd solid 1px;
+  border-radius: 5px;
+  color: #fff;
+  display: inline-block;
+  font-size: 16px;
+  padding: 8px 12px;
+  text-decoration: none;
+  text-align: center;
+  min-width: 40px;
+  position: relative;
+  transition: color .1s ease;
+  margin-top: 15px;
+    clear: right;
+    cursor: pointer;
+}
+
+button:hover {
+  background: #357ebd;
+}
+
+.err{
+    background: #ffcccc;
+    border-color: #ff1919;
+}
+
+.id{
+    display: none;
+}
+
+textarea{
+    resize:none;
+    font-size: 17px;
+}
+
+.te{
+    border-radius: 10px;
+}
+
+.cs{
+    height: 400px;
+}
+
+.NuevoU{
+    border: solid 1px blue;
+    padding: 10spx;
+    border-radius: 5px;
+    float:right;
+    margin: 8px;
+    margin-right: 10px;
+    background: #4131e5;
+    font-size: 18px;
+}
+
+.NuevoU2{
+    border: solid 1px #732b2a;
+    padding: 10spx;
+    border-radius: 5px;
+    float:right;
+    margin: 8px;
+    margin-right: 10px;
+    background: #ac403f;
+    font-size: 18px;
+}
